@@ -1,0 +1,10 @@
+final_report.txt
+host_w_ip.txt
+subfinder_o.txt
+pwn_env/
+.venv/
+ghidra/
+.gdb_history
+# Large wordlist — not for version control
+rockyou.txt
+CTF3/rockyou.txt
